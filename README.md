@@ -10,11 +10,13 @@ Os Nano Courses são programas intensivos oferecidos pela FIAP com foco em **hab
 
 Durante as 80 horas, aprendi e pratiquei conceitos fundamentais de **programação e tecnologia aplicada**, incluindo:
 
-- ✅ Fundamentos de Lógica de Programação  
-- ✅ Estruturas de Dados e Algoritmos básicos  
-- ✅ Manipulação de dados com **Python**  
-- ✅ Resolução de problemas práticos com foco em **Data Science**  
-- ✅ Aplicação de conceitos em projetos e exercícios guiados  
+- ✅ Fundamentos da Linguagem Python: Introdução à sintaxe, tipos de dados e lógica de programação.
+- ✅ Variáveis e Estruturas de Controle: Uso de variáveis, tomada de decisão com if/else e laços de repetição como for e while.
+- ✅ Manipulação de Estruturas de Dados: Trabalho com listas, funções e módulos para organizar e reutilizar código.
+- ✅ Dicionários e Tuplas: Aplicação de dicionários para dados com pares de chave-valor e uso de tuplas para dados imutáveis.
+- ✅ Manipulação de Arquivos e JSON: Leitura e escrita de arquivos, e manipulação de dados em formato JSON, comum em APIs.
+- ✅ Bibliotecas Externas e Sistema Operacional: Utilização de bibliotecas de terceiros e interação com o sistema operacional para automação de tarefas.
+- ✅ Protocolos de Comunicação e Python: Conceitos básicos de redes e como Python pode ser usado para comunicação entre sistemas. 
 
 Esse curso foi essencial para consolidar minha base em programação e fortalecer meu aprendizado contínuo na área de **Desenvolvimento e Engenharia de Software**.
 
