@@ -26,9 +26,6 @@ Você pode visualizar meu certificado da FIAP:
 
 - [Abrir Certificado em PDF](https://1drv.ms/b/c/8a0fe3903e5fa71e/EeIhAwXT8gRCgq2OiM0Pdf0BQIOv7I1ABSFgZsvZtDjJzw?e=AyV3hq)  
 
-Se preferir, veja abaixo a versão em imagem:  
-
-![Certificado FIAP](./certificado/certificado_fiap.png)
 
 ---
 
